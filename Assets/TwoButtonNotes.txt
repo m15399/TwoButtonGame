@@ -1,0 +1,45 @@
+
+glow block
+makes whirlwinds and stretches
+
+round guy who dashes around and spins
+
+tap right to run, both buttons to jump
+
+right to punch
+> >HOLD >>> ><   <  < ==HOLD < 
+
+flying game
+>> 	dash
+== 	retract wings (but you’ll fall in the water eventually
+<> 	flip upside down
+		lets you slip through narrow gaps
+		also extend wings
+		also switch weapons?
+>>HOLD
+>HOLD <
+>HOLD <HOLD	speed up moving l/r
+story
+	you fly through crazy rock canyons for seemingly no reason (perhaps to deliver mail)
+	talking
+		“dad why?? why do you do this???”
+		pops up a box where you must type an answer “I just…” (at least 3 letters)
+		“Your son will you remember you said this”
+		type into a thought bubble or ios box, then it speaks your answer
+		it might save your thoughts from random places and use them later
+		prompt: what a lovely day to ~fly~ (green text or different font) 
+		“I just can’t decide whether to fly with two fingers on one hand or one finger on each hand…”
+		“I’m more of a WASD man”
+		tutorial - “My name…” prompt: “my name is…”
+	dream sequence where your plane is a frying pan and you fry eggs and dump them on plates
+icon
+	guy eating a toy airplane
+	guy grasping a toy airplane and looking down solemly
+	toy airplane in a hotdog bun
+visuals
+	2D painterly style, or painterly pixel style
+	rock column made of a stack of 2D images
+	looks like its moving around in 3D
+	 
+
+
