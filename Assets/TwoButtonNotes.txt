@@ -40,6 +40,9 @@ visuals
 	2D painterly style, or painterly pixel style
 	rock column made of a stack of 2D images
 	looks like its moving around in 3D
-	 
 
+platformer
+	move around rectangular screen
+	dash, jump, wall jump, some interesting additional moves
+	get to one point is the goal, then the level changes
 
